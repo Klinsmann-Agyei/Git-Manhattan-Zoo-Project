@@ -1,0 +1,14 @@
+git init
+git status
+git add meal-regimens.txt
+git status
+git commit -m "add meal-regimens.txt file to repository"
+git add meal-regimens.txt
+git status
+git commit -m "modify file"
+git log
+git add meal-regimens.txt
+git commit -m "add poison dart frog"
+git add meal-regimens.txt
+git commit -m "add poison dart frog"
+git log
